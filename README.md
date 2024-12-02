@@ -59,7 +59,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 - **Restarted Primal-Dual Hybrid Conjugate Gradient Method for Large-Scale Quadratic Programming** [[Paper]](http://arxiv.org/abs/2405.16160) [[Datasets]](https://github.com/Lhongpei/QP_datasets) [[Python]](https://github.com/Lhongpei/PDHCG.jl) [[Julia]](https://github.com/Huangyc98/PDHCG.jl)<br>
   PDHCG is a first order method designed for large-scaled quadratic programming problems with linear contraints, including CPU version and GPU accelerated version.
