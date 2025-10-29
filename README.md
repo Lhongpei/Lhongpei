@@ -4,7 +4,9 @@
 ### I'm an Undergraduate at Shanghai University of Finance and Economics
   <a href="ishongpeili@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/Lhongpei"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
-
+  <a href="https://lhongpei.github.io"><img src="https://img.shields.io/badge/HomePage-ffffff?style=for-the-badge&logo=homepage&logoColor=black"/></a> 
+  <a href="https://scholar.google.com/citations?user=ZXiUF98AAAAJ&hl"><img src="https://img.shields.io/badge/Scholar-ffffff?style=for-the-badge&logo=googlescholar&logoColor=black"/></a> 
+  
 ![](https://img.shields.io/badge/Focus-Operations_Research-BE2EDD)
 ![](https://img.shields.io/badge/Focus-Machine_Learning-20B2AA)
 
