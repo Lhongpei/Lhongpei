@@ -7,7 +7,3 @@
   <a href="https://lhongpei.github.io"><img src="https://img.shields.io/badge/HomePage-ffffff?style=for-the-badge&logo=homepage&logoColor=black"/></a> 
   <a href="https://scholar.google.com/citations?user=ZXiUF98AAAAJ&hl"><img src="https://img.shields.io/badge/Scholar-ffffff?style=for-the-badge&logo=googlescholar&logoColor=black"/></a> 
   
-![](https://img.shields.io/badge/Focus-Operations_Research-BE2EDD)
-![](https://img.shields.io/badge/Focus-Machine_Learning-20B2AA)
-
-
